@@ -1,2 +1,2 @@
 <div>test git</div>
-<p>vetka commit2</p>
+<p style="color:red">vetka commit2</p>
